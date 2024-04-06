@@ -42,7 +42,7 @@
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=MFaramawy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="MFaramawy" /></p>
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="MFaramawy" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaramawy&layout=compact&theme=radical&hide_border=true" alt="MFaramawy" /></p>
 
 
