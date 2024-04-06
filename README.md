@@ -36,7 +36,7 @@
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/faramawy-deve/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <br />
 <!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
-- Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇 <br /><br /> <br /> <br />
+- Sharing updates on <a href="https://www.linkedin.com/in/ammar-matarieh/">LinkedIn</a> 😇 <br /><br /> <br /> <br />
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
