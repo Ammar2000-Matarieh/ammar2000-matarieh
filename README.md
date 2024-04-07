@@ -3,7 +3,7 @@
 [![Linkedin:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-matarieh/)](https://www.linkedin.com/in/ammar-matarieh/)
 [![Facebook:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61553527558777)](https://www.facebook.com/profile.php?id=61553527558777)
 ![GitHub followers](https://img.shields.io/github/followers/Ammar2000-Matarieh?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Ammar2000-Matarieh&color=brightgreen">  
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Ammar2000-Matarieh&color=brightgreen" align="right" >  
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/flutter%20.png)
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/img-Mobile.png)
