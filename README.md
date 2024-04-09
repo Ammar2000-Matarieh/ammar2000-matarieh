@@ -29,7 +29,7 @@
 ![](https://img.shields.io/badge/Code-C%2B%2B-yellowgreen)
 ![](https://img.shields.io/badge/Code-Java-red)
 ![](https://img.shields.io/badge/Tools-Git-blue)
-![](https://img.shields.io/badge/Tools-Android-Studio-blue)
+![](https://img.shields.io/badge/Editor-Android-Studio-informational?style=flat&logo=Android-Studio&logoColor=white&color=6aa6f8)
 
 </p>
 
