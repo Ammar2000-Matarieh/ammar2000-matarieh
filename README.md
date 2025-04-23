@@ -1,5 +1,7 @@
 ### Hi there, I'm Ammar Matarieh  👋 
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&theme=radical)](https://github.com/Ammar2000-Matarieh)
+
 [![Linkedin:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-matarieh/)](https://www.linkedin.com/in/ammar-matarieh/)
 [![Instagram:Ammar](https://img.shields.io/badge/-Ammar-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matariehammar/)](https://www.instagram.com/matariehammar/)
 [![Facebook:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61553527558777)](https://www.facebook.com/profile.php?id=61553527558777)
