@@ -15,17 +15,14 @@
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/flutter-3.png)
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/img-Mobile.png)
 
-## 👨🏻‍💻 &nbsp;About Me
+I'm a passionate Mobile Developer specialized in **Flutter** and **iOS (Swift, UIKit)** with solid experience building scalable mobile apps.  
+I enjoy turning complex problems into simple, beautiful, and intuitive mobile interfaces.
 
-## I'm a Flutter Developer and IOS Developer!!
-
-<!-- <img alt="Night Coding" src="https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/flutter%20.png" align="right"/> -->
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games and read articals
-- ✉️ &nbsp;You can shoot me an email at ammarmatarieh2@gmail.com! I'll try to respond as soon as I can
+- 👨‍💻 I have 2+ years experience in Flutter and 7+ months in iOS Development
+- 💼 Built real-world apps including an e-commerce furniture store and a fuel delivery system
+- 🧰 Proficient in Firebase, APIs, SQLite, and Figma for UI design
+- 📚 Always learning and improving my skills
+- 🎯 2025 Goals: Build open source tools, mentor juniors, and grow my tech presence
 
 ## 🔧 Technologies & Tools
 
