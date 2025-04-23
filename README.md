@@ -34,6 +34,13 @@ I enjoy turning complex problems into simple, beautiful, and intuitive mobile in
 ![](https://img.shields.io/badge/Code-Java-red)
 ![](https://img.shields.io/badge/Tools-Git-blue)
 
+### 🛠 Tools I Use
+
+**Languages:** Dart, Swift, Java, C++, HTML  
+**Frameworks:** Flutter, UIKit  
+**Tools & Platforms:** Firebase, Git, Xcode, VS Code, Postman, Figma  
+**Databases:** SQLite, Firebase Firestore, MySQL, MongoDB
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
