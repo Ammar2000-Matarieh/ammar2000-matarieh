@@ -1,97 +1,65 @@
-# 👨‍💻 **Ammar Matarieh** 
-### Senior Flutter & iOS Developer | Open Source Contributor
+# 👋 Hi, I'm Ammar Matarieh
+### 🧑‍💻 Flutter & iOS Developer | Passionate About Building Mobile Experiences
 
-<div align="center">
-  <img src="https://github.com/Ammar2000-Matarieh/Ammar2000-Matarieh/blob/main/flutter-3.png" alt="header" width="100%"/>
-</div>
+<img src="https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/1740968430252.jpg" width="150" align="right">
+
+
+
+[![Linkedin:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-matarieh/)](https://www.linkedin.com/in/ammar-matarieh/)
+[![Instagram:Ammar](https://img.shields.io/badge/-Ammar-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matariehammar/)](https://www.instagram.com/matariehammar/)
+[![Facebook:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61553527558777)](https://www.facebook.com/profile.php?id=61553527558777)
+![GitHub followers](https://img.shields.io/github/followers/Ammar2000-Matarieh?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Ammar2000-Matarieh&color=brightgreen">  
+
+📄 **[View My Resume (PDF)](https://drive.google.com/drive/folders/1F_2EaCfNeJM8bgfSSAMN4DNWD10rJdSJ?dmr=1&ec=wgc-drive-globalnav-goto)**  
+
+
+
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/flutter-3.png)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/img-Mobile.png)
+
+I'm a passionate Mobile Developer specialized in **Flutter** and **iOS (Swift, UIKit)** with solid experience building scalable mobile apps.  
+I enjoy turning complex problems into simple, beautiful, and intuitive mobile interfaces.
+
+- 👨‍💻 I have 2+ years experience in Flutter and 7+ months in iOS Development
+- 💼 Built real-world apps including an e-commerce furniture store and a fuel delivery system
+- 🧰 Proficient in Firebase, APIs, SQLite, and Figma for UI design
+- 📚 Always learning and improving my skills
+- 🎯 2025 Goals: Build open source tools, mentor juniors, and grow my tech presence
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=Xcode&logoColor=white&color=0096FF)
+![](https://img.shields.io/badge/Code-Dart-green)
+![](https://img.shields.io/badge/Code-Swift-orange)
+![](https://img.shields.io/badge/Code-C%2B%2B-yellowgreen)
+![](https://img.shields.io/badge/Code-Java-red)
+![](https://img.shields.io/badge/Tools-Git-blue)
+
+### 🛠 Tools I Use
+
+**Languages:** Dart, Swift, Java, C++, HTML  
+**Frameworks:** Flutter, UIKit  
+**Tools & Platforms:** Firebase, Git, Xcode, VS Code, Postman, Figma  
+**Databases:** SQLite, Firebase Firestore, MySQL, MongoDB
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/ammar-matarieh/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <br />
+<!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
+- - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
+- Sharing updates on <a href="https://www.linkedin.com/in/ammar-matarieh/">LinkedIn</a> 😇 <br /><br /> <br /> <br />
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
+
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ammar-matarieh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Ammar2000-Matarieh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Ammar2000-Matarieh&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2000-Matarieh&layout=compact&theme=radical&hide_border=true" />
 </p>
-
-## 🚀 **About Me**
-
-<img align="right" src="https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/1740968430252.jpg" width="250" alt="Profile">
-
-Passionate **Mobile Developer** with **3+ years** experience building high-performance applications. I specialize in:
-
-- 📱 **Flutter** & **iOS** development
-- 🎨 Beautiful UI/UX implementation
-- ⚡ Performance optimization
-- 🔧 Clean architecture patterns
-
-**Current Focus:**  
-🔥 Building AI-integrated mobile solutions  
-🌱 Learning **SwiftUI** & **Jetpack Compose**  
-💡 Creating technical content on Medium
-
-## 🛠 **Technical Stack**
-
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-</p>
-
-### 🗃️ Databases
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</p>
-
-## 📈 **GitHub Stats**
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&theme=radical&include_all_commits=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2000-Matarieh&layout=compact&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ammar2000-Matarieh&theme=radical)
-
-</div>
-
-## 🏆 **Featured Projects**
-
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [FurniShop](https://github.com/Ammar2000-Matarieh/FurniShop) | E-commerce App | Flutter, Firebase | ![Stars](https://img.shields.io/github/stars/Ammar2000-Matarieh/FurniShop?style=flat-square) |
-| [FuelGo](https://github.com/Ammar2000-Matarieh/FuelGo) | Fuel Delivery App | Swift, UIKit | ![Stars](https://img.shields.io/github/stars/Ammar2000-Matarieh/FuelGo?style=flat-square) |
-
-## 📚 **Latest Articles**
-
-<!-- BLOG-POST:START -->
-- [Flutter Performance Optimization Tips](https://medium.com/p/123abc)
-- [State Management in 2024](https://medium.com/p/456def)
-<!-- BLOG-POST:END -->
-
-## 🤝 **Let's Connect**
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://calendly.com/yourprofile">
-    <img src="https://img.shields.io/badge/Book_Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly">
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://github.com/Ammar2000-Matarieh/Ammar2000-Matarieh/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
