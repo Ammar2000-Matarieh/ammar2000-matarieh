@@ -1,66 +1,65 @@
-
 # 👋 Hi, I'm Ammar Matarieh
-### 🧑‍💻 Flutter & iOS Developer | Passionate About Building Mobile Experiences
+### 🚀 Senior Flutter & iOS Developer | Open Source Contributor
 
 <img src="https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/1740968430252.jpg" width="150" align="right">
 
+[![LinkedIn](https://img.shields.io/badge/-Ammar_Matarieh-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-matarieh/)
+[![GitHub Followers](https://img.shields.io/github/followers/Ammar2000-Matarieh?label=Follow&style=social)](https://github.com/Ammar2000-Matarieh)
+![Visitors](https://komarev.com/ghpvc/?username=Ammar2000-Matarieh&color=blueviolet)
 
+---
 
-[![Linkedin:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-matarieh/)](https://www.linkedin.com/in/ammar-matarieh/)
-[![Instagram:Ammar](https://img.shields.io/badge/-Ammar-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matariehammar/)](https://www.instagram.com/matariehammar/)
-[![Facebook:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61553527558777)](https://www.facebook.com/profile.php?id=61553527558777)
-![GitHub followers](https://img.shields.io/github/followers/Ammar2000-Matarieh?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Ammar2000-Matarieh&color=brightgreen">  
-
-📄 **[View My Resume (PDF)](https://drive.google.com/drive/folders/1F_2EaCfNeJM8bgfSSAMN4DNWD10rJdSJ?dmr=1&ec=wgc-drive-globalnav-goto)**  
-
-
-
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/flutter-3.png)
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/img-Mobile.png)
-
-I'm a passionate Mobile Developer specialized in **Flutter** and **iOS (Swift, UIKit)** with solid experience building scalable mobile apps.  
-I enjoy turning complex problems into simple, beautiful, and intuitive mobile interfaces.
-
-- 👨‍💻 I have 2+ years experience in Flutter and 7+ months in iOS Development
-- 💼 Built real-world apps including an e-commerce furniture store and a fuel delivery system
-- 🧰 Proficient in Firebase, APIs, SQLite, and Figma for UI design
-- 📚 Always learning and improving my skills
-- 🎯 2025 Goals: Build open source tools, mentor juniors, and grow my tech presence
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=Xcode&logoColor=white&color=0096FF)
-![](https://img.shields.io/badge/Code-Dart-green)
-![](https://img.shields.io/badge/Code-Swift-orange)
-![](https://img.shields.io/badge/Code-C%2B%2B-yellowgreen)
-![](https://img.shields.io/badge/Code-Java-red)
-![](https://img.shields.io/badge/Tools-Git-blue)
-
-### 🛠 Tools I Use
-
-**Languages:** Dart, Swift, Java, C++, HTML  
-**Frameworks:** Flutter, UIKit  
-**Tools & Platforms:** Firebase, Git, Xcode, VS Code, Postman, Figma  
-**Databases:** SQLite, Firebase Firestore, MySQL, MongoDB
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/ammar-matarieh/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <br />
-<!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
-- - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
-- Sharing updates on <a href="https://www.linkedin.com/in/ammar-matarieh/">LinkedIn</a> 😇 <br /><br /> <br /> <br />
-
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2000-Matarieh&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar2000-Matarieh&theme=radical" />
+</p>
+
+---
+
+## 🛠 Technical Skills
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### 🛠 DevOps & Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🏆 Certifications
+- [ ] AWS Certified Developer
+- [ ] Google Flutter Certification
+- [ ] Apple Certified iOS Developer
+
+---
+
+## 💼 Featured Projects
+
+### 📱 Mobile Apps
+- **FurniShop** - E-commerce Furniture App (Flutter) [![GitHub Stars](https://img.shields.io/github/stars/Ammar2000-Matarieh/FurniShop?style=social)](https://github.com/Ammar2000-Matarieh/FurniShop)
+- **FuelGo** - Fuel Delivery System (iOS) [![GitHub Stars](https://img.shields.io/github/stars/Ammar2000-Matarieh/FuelGo?style=social)](https://github.com/Ammar2000-Matarieh/FuelGo)
+
+---
+
+## 📈 Contribution Metrics
+
+```text
+📅 Total Contributions: 5,197+
+🔥 Current Streak: 10 days
+⭐ Total Stars: 75
+🚀 Total PRs: 811
