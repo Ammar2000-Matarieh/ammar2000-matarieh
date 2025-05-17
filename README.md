@@ -1,17 +1,34 @@
 # 👋 Hi, I'm Ammar Matarieh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ### 🧑‍💻 Flutter & iOS Developer | Passionate About Building Mobile Experiences
 
+# 🚀 Ammar Matarieh 
+### **Flutter & iOS Developer** | Mobile Architect | Passionate Problem Solver
+
 <img src="https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/1740968430252.jpg" width="150" align="right">
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ammar-matarieh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ammar2000-Matarieh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/matariehammar/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61553527558777">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+📌 **Profile Stats:**  
+<img src="https://komarev.com/ghpvc/?username=Ammar2000-Matarieh&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
+<img src="https://img.shields.io/github/followers/Ammar2000-Matarieh?label=GitHub+Followers&style=flat" alt="GitHub followers" />
 
-[![Linkedin:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-matarieh/)](https://www.linkedin.com/in/ammar-matarieh/)
-[![Instagram:Ammar](https://img.shields.io/badge/-Ammar-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matariehammar/)](https://www.instagram.com/matariehammar/)
-[![Facebook:Ammar](https://img.shields.io/badge/-Ammar-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61553527558777)](https://www.facebook.com/profile.php?id=61553527558777)
-![GitHub followers](https://img.shields.io/github/followers/Ammar2000-Matarieh?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Ammar2000-Matarieh&color=brightgreen">  
-
-📄 **[View My Resume (PDF)](https://drive.google.com/drive/folders/1F_2EaCfNeJM8bgfSSAMN4DNWD10rJdSJ?dmr=1&ec=wgc-drive-globalnav-goto)**  
+📄 **[Download Resume](https://drive.google.com/drive/folders/1F_2EaCfNeJM8bgfSSAMN4DNWD10rJdSJ?dmr=1&ec=wgc-drive-globalnav-goto)** | **📍 Open to Opportunities** 
 
 🚀 **Full-Stack Mobile Developer** | Flutter • iOS • PHP • C#  
 
