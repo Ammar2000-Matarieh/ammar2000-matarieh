@@ -13,39 +13,27 @@
 
 📄 **[View My Resume (PDF)](https://drive.google.com/drive/folders/1F_2EaCfNeJM8bgfSSAMN4DNWD10rJdSJ?dmr=1&ec=wgc-drive-globalnav-goto)**  
 
+🚀 **Full-Stack Mobile Developer** | Flutter • iOS • PHP • C#  
 
+I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mobile solutions (Flutter/iOS) and backend systems. With 2+ years building production-ready apps and robust APIs, I bridge the gap between beautiful interfaces and scalable architecture.
 
-## 🍏 iOS Development (2025)
+**Core Expertise:**
+- 📱 **Mobile:** Flutter (Bloc, Provider), Swift (UIKit)
+- ⚙️ **Backend:** PHP (Laravel), C# (.NET)
+- 🔥 **Firebase:** Auth, Firestore, Cloud Functions
+- 🗄️ **Databases:** SQLite, MySQL, MongoDB
+- 🎨 **UI/UX:** Figma to pixel-perfect implementation
 
-<p align="left">
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white&labelColor=000000" alt="Xcode 2025"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=000000" alt="Swift 2025"/>
-  </a>
-  <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS 2025"/>
-  </a>
-</p>
+**Notable Projects:**
+- Fuel delivery system (Full-stack)
+- E-commerce furniture store
+- Custom CMS backends
 
-**Modern iOS Stack:**
-- Xcode 16 (2025)
-- Swift 6.0
-- SwiftUI 5.0
-- Combine Framework
-- Core Data with CloudKit
-- ARKit 6
-- Metal 4
+**2025 Goals:** 
+- Build impactful open-source tools
+- Mentor aspiring developers
+- Expand into AI integration
 
-I'm a passionate Mobile Developer specialized in **Flutter** and **iOS (Swift, UIKit)** with solid experience building scalable mobile apps.  
-I enjoy turning complex problems into simple, beautiful, and intuitive mobile interfaces.
-
-- 👨‍💻 I have 2+ years experience in Flutter and 7+ months in iOS Development
-- 💼 Built real-world apps including an e-commerce furniture store and a fuel delivery system
-- 🧰 Proficient in Firebase, APIs, SQLite, and Figma for UI design
-- 📚 Always learning and improving my skills
-- 🎯 2025 Goals: Build open source tools, mentor juniors, and grow my tech presence
 
 ## 🌍 Connect with Me
 
