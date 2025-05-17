@@ -45,6 +45,15 @@ I enjoy turning complex problems into simple, beautiful, and intuitive mobile in
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
   </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android-studio" width="40" height="40"/>
+  </a>
+  <a href="https://developer.apple.com/simulator/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281781.png" alt="ios-simulator" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio/run/emulator" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/518/518705.png" alt="android-emulator" width="40" height="40"/>
+  </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
