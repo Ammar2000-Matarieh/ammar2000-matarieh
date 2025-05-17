@@ -86,7 +86,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive mobile in
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🔧 Languages and Tools
+
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
