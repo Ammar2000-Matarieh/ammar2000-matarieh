@@ -27,6 +27,15 @@ I enjoy turning complex problems into simple, beautiful, and intuitive mobile in
 - 📚 Always learning and improving my skills
 - 🎯 2025 Goals: Build open source tools, mentor juniors, and grow my tech presence
 
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ammar-matarieh/)](https://www.linkedin.com/in/ammar-matarieh/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Ammar2000-Matarieh)](https://github.com/Ammar2000-Matarieh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/matariehammar/)](https://www.instagram.com/matariehammar/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61553527558777)](https://www.facebook.com/profile.php?id=61553527558777)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
