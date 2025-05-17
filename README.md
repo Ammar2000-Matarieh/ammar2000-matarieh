@@ -77,12 +77,39 @@ I enjoy turning complex problems into simple, beautiful, and intuitive mobile in
   </a>
 </p>
 
-### 🛠 Tools I Use
+### 🛠 Tools & Technologies
 
-**Languages:** Dart, Swift, Java, C++, HTML  
-**Frameworks:** Flutter, UIKit  
-**Tools & Platforms:** Firebase, Git, Xcode, VS Code, Postman, Figma  
-**Databases:** SQLite, Firebase Firestore, MySQL, MongoDB
+**Programming Languages:**  
+<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"> 
+<img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift">
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+
+**Frameworks & Platforms:**  
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/-UIKit-000000?style=flat&logo=apple&logoColor=white" alt="UIKit">
+<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white" alt=".NET">
+<img src="https://img.shields.io/badge/-PHP_Native-777BB4?style=flat&logo=php&logoColor=white" alt="PHP Native">
+
+**Development Tools:**  
+<img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=white" alt="Xcode">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="Trello">
+
+**Databases & Cloud Services:**  
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firestore">
 
 </p>
 
