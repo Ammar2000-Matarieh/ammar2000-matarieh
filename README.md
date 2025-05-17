@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ammar Matarieh
+# 👋 Hi, I'm Ammar Matarieh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ### 🧑‍💻 Flutter & iOS Developer | Passionate About Building Mobile Experiences
 
 <img src="https://github.com/Ammar2000-Matarieh/ammar2000-matarieh/blob/main/1740968430252.jpg" width="150" align="right">
