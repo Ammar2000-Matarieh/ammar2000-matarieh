@@ -73,7 +73,7 @@ I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mo
   <a href="mailto:your.email@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/>
   </a>
-  <a href="YOUR_YOUTUBE_LINK" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/@ammarmatarieh2183" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
 </p>
