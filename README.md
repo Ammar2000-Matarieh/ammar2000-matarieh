@@ -216,3 +216,29 @@ I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mo
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2000-Matarieh&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+## 📊 Contribution Activity
+
+### Overview
+- **Contributed to** 95+ repositories including:
+  - Vardot/varbase-patches
+  - Vardot/varbase-project
+  - Vardot/varbase-docs
+  - And 92 others
+
+### Breakdown (2025)
+- **Code Review:** 80%
+- **Commits:** 20%
+- **Issues/Pull Requests:** Active participation
+
+### Recent Activity (May 2025)
+- **Created 11 commits** in 4 repositories:
+  - webship/webship (4 commits)
+  - Vardot/varbase-patches (3 commits)
+  - webship/webship-project (2 commits)
+  - webship/webtheme (2 commits)
+  
+- **Opened 5 issues** in 3 repositories:
+  - Vardot/varbase-patches
+  - Vardot/platformsh-varbase10x01
+  - webship/webship-project
