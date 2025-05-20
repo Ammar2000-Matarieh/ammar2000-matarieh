@@ -242,3 +242,18 @@ I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mo
   - Vardot/varbase-patches
   - Vardot/platformsh-varbase10x01
   - webship/webship-project
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img width="80%" src="https://ghchart.rshah.org/Ammar2000-Matarieh" alt="Contribution Graph">
+</p>
+
+### Recent Contributions
+| Repository           | Commits | Issues | Pull Requests |
+|----------------------|---------|--------|---------------|
+| Vardot/varbase-patches | 3       | 2      | 1             |
+| webship/webship      | 4       | 1      | 0             |
+
+**Legend:**  
+🟩 Code | 🟦 PRs | 🟪 Issues
