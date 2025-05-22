@@ -280,3 +280,7 @@ I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mo
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar2000-Matarieh&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&theme=radical&include_all_commits=true" alt="إحصائيات GitHub" />
+</p>
