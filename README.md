@@ -258,33 +258,3 @@ I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mo
 **Legend:**  
 🟩 Code | 🟦 PRs | 🟪 Issues
 
-## 📊 Contribution Activity
-
-### Overview
-- **Contributed to** 20+ repositories including:
-  - [اسم المستودع] (رابط)
-  - [اسم المستودع] (رابط)
-
-### Breakdown (2025)
-- **Code Review:** 50%
-- **Commits:** 40%
-- **Issues:** 10%
-
-### Recent Activity (May 2025)
-- **Created 15 commits** in 3 repositories:
-  - [اسم المستودع] (X commits)
-  - [اسم المستودع] (Y commits)
-
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar2000-Matarieh&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&theme=radical&include_all_commits=true" alt="إحصائيات GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Ammar2000-Matarieh" alt="مخطط مساهمات GitHub" />
-</p>
