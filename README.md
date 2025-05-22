@@ -257,3 +257,20 @@ I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mo
 
 **Legend:**  
 🟩 Code | 🟦 PRs | 🟪 Issues
+
+## 📊 Contribution Activity
+
+### Overview
+- **Contributed to** 20+ repositories including:
+  - [اسم المستودع] (رابط)
+  - [اسم المستودع] (رابط)
+
+### Breakdown (2025)
+- **Code Review:** 50%
+- **Commits:** 40%
+- **Issues:** 10%
+
+### Recent Activity (May 2025)
+- **Created 15 commits** in 3 repositories:
+  - [اسم المستودع] (X commits)
+  - [اسم المستودع] (Y commits)
