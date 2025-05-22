@@ -274,3 +274,9 @@ I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mo
 - **Created 15 commits** in 3 repositories:
   - [اسم المستودع] (X commits)
   - [اسم المستودع] (Y commits)
+
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar2000-Matarieh&theme=radical" />
+</p>
