@@ -213,69 +213,7 @@ I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mo
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
 
-<h1 align="center">Hi there 👋, I'm Ammar Matarieh</h1>
-
-<p align="center">
-  🔥 Mobile Developer | 💻 Backend Enthusiast | 🌍 Jordan
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarmatarieh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammarmatarieh&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
-### 🧠 My GitHub Grade
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammarmatarieh&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ammarmatarieh&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### 📌 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarmatarieh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🚀 Skills & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
-
----
-
-### 📬 Contact Me
-
-- 📧 Email: ammarmatarieh2@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ammarmatarieh](https://www.linkedin.com/in/ammarmatarieh)
-
----
-
-> **📈 هدفي في 2025:** تحسين تقييمي وزيادة المشاركات العامة على GitHub للوصول إلى مرتبة متقدمة ضمن مطوري الأردن 🇯🇴
-
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar2000-Matarieh&layout=compact&theme=radical&hide_border=true" /> </p>
 ## 📊 Contribution Activity
 
 ### Overview
