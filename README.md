@@ -209,6 +209,18 @@ I'm **Ammar Matarieh**, a passionate developer specializing in cross-platform mo
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
 - Sharing updates on <a href="https://www.linkedin.com/in/ammar-matarieh/">LinkedIn</a> 😇 <br /><br /> <br /> <br />
 
+<!-- عنوان رسم مساهمات GitHub -->
+### 📈 Contribution Graph
+![YOUR_USERNAME's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ammar2000-Matarieh&theme=github-dark&hide_border=true&custom_title=Ammar2000-Matarieh's%20Contribution%20Graph)
+
+<!-- كؤوس الإنجازات -->
+### 🏆 GitHub Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Ammar2000-Matarieh&theme=onedark&no-bg=true&no-frame=true&margin-w=10&margin-h=10&row=1&column=8)
+
+<!-- (اختياري) إحصائيات مختصرة -->
+### ⚙️ Stats (optional)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ammar2000-Matarieh&show_icons=true&hide_border=true&theme=github_dark)
+
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
 
